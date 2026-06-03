@@ -147,7 +147,7 @@ Translating columns: 100%|████████████████| 3/3 
 
 ## Background
 
-This tool was originally built and deployed at [Perennial Holdings](https://perennialholdings.com.au/) to automate translation of internal operational documents between Chinese and English, eliminating a recurring manual bottleneck for cross-border teams.
+This tool was originally built and deployed during my internship at Perennial Holdings to automate translation of internal operational documents between Chinese and English, eliminating a recurring manual bottleneck for cross-border teams.
 
 ---
 
